@@ -49,55 +49,55 @@ Chapter 17: "Of the Causes, Generation, and Definition of a Commonwealth"
 -------------------------------------------------------------------------
 
 1. **Commonwealth and Sovereign Authority:**
-   - Hobbes begins by defining a commonwealth as "one person, of whose acts a great multitude, by mutual covenants one with another, have made themselves every one the author."
-   - The sovereign authority, or Leviathan, is created by individuals surrendering their natural rights to this common power for the sake of peace and order.
-   - "A commonwealth is said to be instituted when a multitude of men do agree and covenant, every one with every one, that to whatsoever man or assembly of men shall be given by the major part the right to present the person of them all..."
-   - (Reference: Leviathan, Chapter 17, Paragraph 1)
+      - Hobbes begins by defining a commonwealth as "one person, of whose acts a great multitude, by mutual covenants one with another, have made themselves every one the author."
+      - The sovereign authority, or Leviathan, is created by individuals surrendering their natural rights to this common power for the sake of peace and order.
+      - "A commonwealth is said to be instituted when a multitude of men do agree and covenant, every one with every one, that to whatsoever man or assembly of men shall be given by the major part the right to present the person of them all..."
+      - (Reference: Leviathan, Chapter 17, Paragraph 1)
 
 2. **Formation of a Commonwealth:**
-   - The foundation of the commonwealth is built upon covenants and contracts, where individuals agree to live in accordance with established laws.
-   - This social contract involves giving up certain natural rights to the sovereign in exchange for security and protection.
-   - "So that in the nature of man we find three principal causes of quarrel. First, competition; secondly, diffidence; thirdly, glory."
-   - (Reference: Leviathan, Chapter 17, Paragraph 12)
+      - The foundation of the commonwealth is built upon covenants and contracts, where individuals agree to live in accordance with established laws.
+      - This social contract involves giving up certain natural rights to the sovereign in exchange for security and protection.
+      - "So that in the nature of man we find three principal causes of quarrel. First, competition; secondly, diffidence; thirdly, glory."
+      - (Reference: Leviathan, Chapter 17, Paragraph 12)
 
 3. **Covenants and Contracts:**
-   - The foundation of the commonwealth is built upon covenants and contracts, where individuals agree to live in accordance with established laws.
-   - Breaking these covenants is seen as a breach of the social contract and can result in consequences.
-   - "The mutual transferring of right is that which men call contract."
-   - (Reference: Leviathan, Chapter 17, Paragraph 3)
+      - The foundation of the commonwealth is built upon covenants and contracts, where individuals agree to live in accordance with established laws.
+      - Breaking these covenants is seen as a breach of the social contract and can result in consequences.
+      - "The mutual transferring of right is that which men call contract."
+      - (Reference: Leviathan, Chapter 17, Paragraph 3)
 
 4. **Artificial Person of the Commonwealth:**
-   - Hobbes describes the commonwealth as an "artificial person" created by the individuals, with the sovereign acting as the head or soul of this entity.
-   - This artificial person represents the unified will and power of the multitude.
-   - "For it is one person, of whose acts a great multitude, by mutual covenants one with another, have made themselves every one the author, to the end he may use the strength and means of them all as he shall think expedient for their peace and common defence."
-   - (Reference: Leviathan, Chapter 17, Paragraph 13)
+      - Hobbes describes the commonwealth as an "artificial person" created by the individuals, with the sovereign acting as the head or soul of this entity.
+      - This artificial person represents the unified will and power of the multitude.
+      - "For it is one person, of whose acts a great multitude, by mutual covenants one with another, have made themselves every one the author, to the end he may use the strength and means of them all as he shall think expedient for their peace and common defence."
+      - (Reference: Leviathan, Chapter 17, Paragraph 13)
 
 Chapter 18: "Of the Rights of Sovereigns by Institution"
 -------------------------------------------------------
 
 1. **The Authority of the Sovereign:**
-   - Hobbes explores the concept of the authority vested in the sovereign by the mutual agreement of individuals.
-   - The authority of the sovereign encompasses the right to make and enforce laws, judge disputes, and protect the commonwealth.
-   - "A commonwealth is said to be instituted when a multitude of men do agree and covenant, every one with every one, that to whatsoever man or assembly of men shall be given by the major part the right to present the person of them all."
-   - (Reference: Leviathan, Chapter 17, Paragraph 1)
+      - Hobbes explores the concept of the authority vested in the sovereign by the mutual agreement of individuals.
+      - The authority of the sovereign encompasses the right to make and enforce laws, judge disputes, and protect the commonwealth.
+      - "A commonwealth is said to be instituted when a multitude of men do agree and covenant, every one with every one, that to whatsoever man or assembly of men shall be given by the major part the right to present the person of them all."
+      - (Reference: Leviathan, Chapter 17, Paragraph 1)
 
 2. **Sovereign's Absolute Power:**
-   - Hobbes argues for the absolute power of the sovereign, emphasizing that the authority should be undivided and without limitations.
-   - The sovereign's power is essential for maintaining order and preventing a return to the chaotic state of nature.
-   - "The sovereign, that is, he whose acts and decrees are owned as the acts and decrees of every one of them, that is, a commonwealth, receiveth the person of them all, and of every one of them, and of all together."
-   - (Reference: Leviathan, Chapter 18, Paragraph 1)
+      - Hobbes argues for the absolute power of the sovereign, emphasizing that the authority should be undivided and without limitations.
+      - The sovereign's power is essential for maintaining order and preventing a return to the chaotic state of nature.
+      - "The sovereign, that is, he whose acts and decrees are owned as the acts and decrees of every one of them, that is, a commonwealth, receiveth the person of them all, and of every one of them, and of all together."
+      - (Reference: Leviathan, Chapter 18, Paragraph 1)
 
 3. **Obligation to the Sovereign:**
-   - Individuals are obligated to obey the sovereign's commands as part of the social contract.
-   - Hobbes asserts that disobedience threatens the stability of the commonwealth and is a violation of the agreement made for mutual protection.
-   - "For the right men have by nature to protect themselves, when none else can protect them, can by no covenant be relinquished."
-   - (Reference: Leviathan, Chapter 18, Paragraph 2)
+      - Individuals are obligated to obey the sovereign's commands as part of the social contract.
+      - Hobbes asserts that disobedience threatens the stability of the commonwealth and is a violation of the agreement made for mutual protection.
+      - "For the right men have by nature to protect themselves, when none else can protect them, can by no covenant be relinquished."
+      - (Reference: Leviathan, Chapter 18, Paragraph 2)
 
 4. **Limits on Subjects' Rights:**
-   - While individuals surrender certain rights to the sovereign, Hobbes argues that subjects retain the right to self-preservation.
-   - However, the interpretation of what constitutes self-preservation is ultimately determined by the sovereign.
-   - "And therefore there be some rights which no man can be understood by any words or other signs to have abandoned or transferred."
-   - (Reference: Leviathan, Chapter 18, Paragraph 5)
+      - While individuals surrender certain rights to the sovereign, Hobbes argues that subjects retain the right to self-preservation.
+      - However, the interpretation of what constitutes self-preservation is ultimately determined by the sovereign.
+      - "And therefore there be some rights which no man can be understood by any words or other signs to have abandoned or transferred."
+      - (Reference: Leviathan, Chapter 18, Paragraph 5)
 
 In summary, Chapters 17 and 18 of "Leviathan" focus on the formation of a commonwealth through a social contract, the authority of the sovereign, and the rights and obligations of individuals within this political structure. Hobbes emphasizes the necessity of absolute sovereign power to maintain order and prevent the chaos of the state of nature.
 
