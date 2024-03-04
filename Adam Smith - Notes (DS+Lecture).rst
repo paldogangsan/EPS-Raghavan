@@ -1,11 +1,6 @@
 ==============
-The Wealth of Nations by Adam Smith Summary
+The Wealth of Nations by Adam Smith
 ==============
-
-Introduction
-------------
-
-"The Wealth of Nations" by Adam Smith, published in 1776, is a foundational work in economics and social theory. In his book, Smith explores various aspects of economic activity, markets, and the role of government.
 
 Key Ideas
 ---------
@@ -15,7 +10,7 @@ Division of Labor:
 
 Smith discusses the concept of the division of labor and its role in increasing productivity and efficiency. He illustrates how specialization allows workers to focus on specific tasks, leading to higher output and economic growth.
 
-Invisible Hand:
+Invisible Hand: IMPORTANT
 ~~~~~~~~~~~~~~~~
 
 One of the most famous concepts in "The Wealth of Nations" is the invisible hand, which refers to the idea that individuals, acting in pursuit of their own self-interest, unintentionally promote the general welfare of society. Smith argues that the pursuit of profit in competitive markets leads to the allocation of resources in ways that benefit society as a whole.
